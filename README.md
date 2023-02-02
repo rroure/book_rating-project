@@ -25,3 +25,10 @@ Below is the information you have regarding the dataset attributes:
 Using the provided dataset, we want to build and to train a model that predicts a book’s rating. The
 project include exploratory analysis of the data, feature engineering and selection, model training and evaluation and
 finally, deployment.
+
+### Team
+
+Nopchanok DUANGDEEDEN
+Opeyemi Emmanuel OLATUNJI
+Romain ROURE
+Céline TAKCHI
